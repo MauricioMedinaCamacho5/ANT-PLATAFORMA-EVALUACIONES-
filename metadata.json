@@ -1,0 +1,6 @@
+{
+  "name": "Aether Stays & Escapes",
+  "description": "A multi-screen boutique travel and architectural escapes application featuring curated stays, interactive itinerary planning, responsive device viewports, and seamless reservation flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
